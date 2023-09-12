@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Traces designHeigt="540" version="9.9.9.5" designWidth="960" backColor="#000000" count="1" aspect="169" totalduration="22000" totalframe="441">
+ <Tracks>
+  <Track type="3" traceId="trace_audio" index="0"/>
+  <Track type="7" traceId="trace_trans" index="1"/>
+  <Track type="0" traceId="trace_main" index="2"/>
+  <Track type="1" traceId="trace_pip" index="3"/>
+  <Track type="2" traceId="trace_text" index="4"/>
+ </Tracks>
+ <Trace type="3" mute="0" traceId="trace_audio" duration="0" link="1" index="0" hide="0"/>
+ <Trace type="7" mute="0" traceId="trace_trans" duration="0" link="1" index="0" hide="0"/>
+ <Trace type="0" mute="0" traceId="trace_main" duration="22038" link="1" index="0" hide="0">
+  <ItemData montionId="" f_fontName="Microsoft YaHei" tint="0" bRemoveOrignal="0" org_noise_full_file="C:\Users\Manisha.V\OneDrive\Documents\VideoWinSoft\Recorder\2023-02-15 22-27-22.mkv" mosic_left="0" edit_posy="0.5" url="" timestamp="2023-02-15 22:28:22" edit_scalex="1" bIsNewAss="0" staturation="0" edit_scaley="1" transparence="100" filepath="C:\Users\Manisha.V\OneDrive\Documents\VideoWinSoft\Recorder\2023-02-15 22-27-22.mkv" srtFontFamily="Microsoft YaHei" crop_left="0" montionDur="3000" itemtype="0" hub="0" fadeOutTimeVideo="0" chroma_enable="0" mosic_bottom="0" highpass="15" brightness="0" height="1080" edit_anchorx="0" removeVideo="0" intensity="0" data_type="0" assFile="" starttime="0" lowpass="-50" sharp="0" motionXmlFile="" f_isDelLine="0" width="1920" assBackVideo="" timeCodeLayout="3" f_isUnderLine="0" thumbnail_file="F:\MovieCache\thum\thum_241F852B9F35C22BF338FB539B77238D_1.png" bRepeat="1" id="item_-1_a15a7a24a73e4a52b8b8fb44152d4214" bPitch="0" title="2023-02-15 22-27-22.MKV" mosic_blurAmount="30" temperature="0" fadeInTime="0" need_file="1" speed="1" endtime="22038" f_trans="0" category="record_video" tips="" isArchieve="0" stabilization="0" isRecordWave="0" timelinePostion="0" isTimeCode="0" removed_lut_id="" f_isItalic="0" rotate="" crop_top="0" effectId="" edit_posx="0.5" removeAudio="0" transMode="-1" srtPos="0" srtFontColor="#ffffff" max_duration="22038" chromaKeyTrans="100" timeCodeTrans="0" contrast="0" chromaKeyColor="#00ff00" flag_special="0" useRealTime="1" lut_id="" bFadeout="0" groupId="" bReversPlayer="0" mosic_right="0" enable_mosic="0" crop_bottom="0" lut_file="" error_code="0" edit_unicscale="1" tagId="" f_isBlod="0" pitchValue="0" org_file="C:\Users\Manisha.V\OneDrive\Documents\VideoWinSoft\Recorder\2023-02-15 22-27-22.mkv" mosic_top="0" hasAudio="1" assReadOnly="0" fadeOutTime="0" transIndexKey="0" edit_rotation="0" cropBorderColor="#000000" removeNoise="0" bFadein="0" bIncludeAutoRotate="0" remove_ask="0" crop_right="0" lut_alpha="1" f_fontSize="40" volume="100" iRotate="0" srtFontSize="30" bKeepRatio="0" fadeInTimeVideo="0" srtFile="" filter_para_duration="3" timeCodeFormat="yyyy-MM-dd" edit_anchory="0" itemid="" bRemoveNoise="0" removed_effect_id="" f_fontColor="#ffffff" timelineLayer="0" webmSpec="0">
+   <MediaData sample_rate="44100" audio_bit_rate="128000" channels="2" audio_length="0" width="1920" fps="30" height="1080" irotate="0" video_timebase="0.001" channel_layout="3" vcodec="h264" interlaced_frame="0" has_single_image="0" audio_stream_index="0" acodec="aac" file_size="13970738" audio_timebase="0.001" has_video="1" duration="22.038" pixel_ratio="1" top_field_first="1" error_type="0" has_audio="1" video_bit_rate="5072659" video_length="661" pixel_format="1" video_stream_index="0" display_rati="1"/>
+   <AssContent><![CDATA[]]></AssContent>
+  </ItemData>
+ </Trace>
+ <Trace type="1" mute="0" traceId="trace_pip" duration="0" link="1" index="0" hide="0"/>
+ <Trace type="2" mute="0" traceId="trace_text" duration="0" link="1" index="0" hide="0"/>
+</Traces>
